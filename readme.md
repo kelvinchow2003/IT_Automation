@@ -22,8 +22,9 @@ This project automates the **pre-domain setup** process for new desktops and lap
 11. **Copy Applications to Target Directory**
 
 ## 🖥️ System Requirements
-
+- Requires: Set-ExecutionPolicy RemoteSigned
 - **Operating System**: Windows 11
 - **Device Type**:
   - 💻 **Laptop**: Run `LaptopSetup.ps1`
   - 🖥️ **Desktop**: Run `DesktopSetup.ps1`
+
